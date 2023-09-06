@@ -9,6 +9,6 @@ public class HomeController {
 	@GetMapping("/login")
 	public String welcomeLogin()
 	{
-		return "Hey All!!Good day to you!! walmartians";
+		return "Hey All....!!Good day to you!! walmartians";
 	}
 }
